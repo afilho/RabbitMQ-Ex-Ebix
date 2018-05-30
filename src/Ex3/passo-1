@@ -1,0 +1,15 @@
+dotnet new console --name Send
+mv Send/Program.cs Send/Send.cs
+dotnet new console --name Consumer1
+mv Consumer1/Program.cs Consumer1/Consumer1.cs
+dotnet new console --name Consumer2
+mv Consumer2/Program.cs Consumer2/Consumer2.cs
+cd Send
+dotnet add package RabbitMQ.Client
+dotnet restore
+cd ../Consumer1
+dotnet add package RabbitMQ.Client
+dotnet restore
+cd ../Consumer2
+dotnet add package RabbitMQ.Client
+dotnet restore

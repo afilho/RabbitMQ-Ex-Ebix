@@ -1,0 +1,11 @@
+C:\Users\Antonio Filho\Documents\RabbitMQ\ex3\consumer1\bin\Debug\netcoreapp2.0\Consumer1.deps.json
+C:\Users\Antonio Filho\Documents\RabbitMQ\ex3\consumer1\bin\Debug\netcoreapp2.0\Consumer1.runtimeconfig.json
+C:\Users\Antonio Filho\Documents\RabbitMQ\ex3\consumer1\bin\Debug\netcoreapp2.0\Consumer1.runtimeconfig.dev.json
+C:\Users\Antonio Filho\Documents\RabbitMQ\ex3\consumer1\bin\Debug\netcoreapp2.0\Consumer1.dll
+C:\Users\Antonio Filho\Documents\RabbitMQ\ex3\consumer1\bin\Debug\netcoreapp2.0\Consumer1.pdb
+C:\Users\Antonio Filho\Documents\RabbitMQ\ex3\consumer1\obj\Debug\netcoreapp2.0\Consumer1.csprojAssemblyReference.cache
+C:\Users\Antonio Filho\Documents\RabbitMQ\ex3\consumer1\obj\Debug\netcoreapp2.0\Consumer1.csproj.CoreCompileInputs.cache
+C:\Users\Antonio Filho\Documents\RabbitMQ\ex3\consumer1\obj\Debug\netcoreapp2.0\Consumer1.AssemblyInfoInputs.cache
+C:\Users\Antonio Filho\Documents\RabbitMQ\ex3\consumer1\obj\Debug\netcoreapp2.0\Consumer1.AssemblyInfo.cs
+C:\Users\Antonio Filho\Documents\RabbitMQ\ex3\consumer1\obj\Debug\netcoreapp2.0\Consumer1.dll
+C:\Users\Antonio Filho\Documents\RabbitMQ\ex3\consumer1\obj\Debug\netcoreapp2.0\Consumer1.pdb
