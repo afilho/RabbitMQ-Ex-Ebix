@@ -5,10 +5,7 @@
             "label": "build",
             "command": "dotnet",
             "type": "process",
-            "args": [
-                "build",
-                "${workspaceFolder}/Ex2/NewTask/NewTask.csproj"
-            ],
+            "args": [],
             "problemMatcher": "$msCompile"
         }
     ]
