@@ -2,6 +2,7 @@
 using RabbitMQ.Client;
 using System.Text;
 
+// Meu comentário teste
 namespace Send
 {
     class Send
