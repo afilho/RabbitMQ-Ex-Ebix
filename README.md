@@ -1,4 +1,4 @@
-# RabbitMQ-Ex-Ebix
+# RabbitMQ Tutorial
 Exercícios do Tutorial do site do RabbitMQ
 
 # Tutoriais
